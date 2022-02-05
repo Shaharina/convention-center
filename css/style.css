@@ -1,0 +1,157 @@
+/* -----------------    Google fonts  --------------------*/
+ @import url("https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,400i,700,700i,900,900i|Poppins:300,400,500,600,700|Roboto:300,400,500,700");
+ /* Global Body Style */
+ body {
+   
+   font-family: "Roboto", sans-serif;
+   text-rendering: optimizeLegibility;
+   -webkit-font-smoothing: antialiased;
+   -moz-font-smoothing: antialiased;
+ }
+ 
+ /* Heading Fonts Size */
+ h1, h2, h3  {
+   font-family: "Playfair Display", serif;
+ 
+ }
+ 
+ /* Start Header Section */
+ .header-color {
+  color:  #0A0826;
+}
+header .logo {
+  font-family: 'Pacifico', cursive;
+}
+
+ p {
+   font-family: "Roboto", sans-serif;
+ }
+ header , a{
+    
+    font-size: 22px;
+    
+  }
+  
+
+  header, .navigation,  .navbar , .container-color{
+    background: #f3ac29 !important;
+}
+    
+.btn{
+  padding: 10px;
+  background: #f3ac29;
+}
+
+
+/*  Start Pricing Table */
+
+.pricingTable{
+  color: #222;
+  background-color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 20px 20px 30px;
+  margin: 0 0 0 40px;
+  border-radius: 30px;
+  position: relative;
+}
+.pricingTable .pricingTable-header{ margin: 0 0 20px 0; }
+.pricingTable .title{
+  color: #fff;
+  background: #1a1a37;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 5px 15px 7px;   
+  margin: 0 0 15px;
+  border-radius: 10px 10px 0 0;
+  display: inline-block;
+  transform-origin: top left;
+  transform: rotate(-90deg);
+  position: absolute;
+  left: -39px;
+  top: 250px;
+}
+.pricingTable .price-value{
+  font-size: 50px;
+  font-weight: 500;
+  padding-bottom: 15px;
+  border-bottom: 1px dashed #ccc;
+}
+.pricingTable .price-value .amount{
+  line-height: 40px;
+  display: inline-block;
+}
+
+.pricingTable .price-value .duration{
+  color: #444;
+  font-size: 18px;
+  font-weight: 400;
+  display: block;
+}
+.pricingTable .pricing-content{
+  text-align: left;
+  padding: 0;
+  margin: 0 0 25px;
+  list-style: none;
+  display: inline-block;
+}
+.pricingTable .pricing-content li{
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 30px;
+  padding: 0 0 0 25px;
+  margin: 0 0 17px;
+  position: relative;
+}
+
+.categories img{
+  width: 100px;
+}
+
+
+.half-width img{
+  width: 80%;
+}
+
+@media only screen and (max-width: 990px){
+  .pricingTable{ margin: 0 0 40px 40px; }
+}
+
+@media only screen and (max-width: 576px) {
+  
+ h1 , .header-color , .header-size{
+    font-size: 25px !important;
+  }
+
+  header .logo {
+    font-size: 15px !important;
+  }
+
+  #pricing-table , .pricingTable{
+    border: 1px solid rgba(7, 5, 5, 0.233) !important;
+    box-shadow: 10px slategray ;
+  }
+  .div, span, .amount {
+    font-size: 30px !important;
+    margin: 0px;
+    padding: 0px;
+
+  }
+  .div , span, .duration .pricing-content , li {
+    font-size: 13px !important;
+  }
+  h3, .popular{
+    font-size: 18px !important;
+  }
+ 
+ p , .p-f-size , .btn{
+    font-size: 15px !important;
+    padding: 5px !important;
+    margin: 0px !important;
+    
+    
+  }
+    }
+
