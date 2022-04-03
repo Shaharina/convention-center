@@ -1,7 +1,7 @@
 ## [Orange County Convention Center](https://shaharina.github.io/convention-center-assignment-3/)
+ Welcome to the Orange County . This website is a Convention Center service website. This repository contains server site code.
 <br/>
 <br/>
-<h5> Welcome to the Orange County . This website is a Convention Center service website. This repository contains server site code. </h5>
 <img src="https://raw.githubusercontent.com/Shaharina/All-images/main/images/orange-county-Convention-Center.png">
 
 ### Features:
