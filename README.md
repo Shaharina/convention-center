@@ -2,7 +2,8 @@
 <br/>
 <br/>
 Welcome to the Orange County . This website is a Convention Center service website. This repository contains server site code.
-<img src="https://raw.githubusercontent.com/Shaharina/All-images/main/images/orange-county-Convention-Center.png" />
+<img src="https://raw.githubusercontent.com/Shaharina/All-images/main/images/orange-county-Convention-Center.png">
+
 ### Features:
 - FULLY Responsive 
 - Customer can book service, check status, and able to give their feedback.
@@ -14,4 +15,4 @@ Welcome to the Orange County . This website is a Convention Center service websi
 - BOOTSTRAP 5
 - JAVASCRIPT
 
-You can see client side code in[Orange County Convention Center] (https://shaharina.github.io/convention-center-assignment-3/)
+You can see client side code in [Orange County Convention Center](https://shaharina.github.io/convention-center-assignment-3/)
