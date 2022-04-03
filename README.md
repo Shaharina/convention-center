@@ -1,4 +1,4 @@
-## [Orange County Convention Center] (https://shaharina.github.io/convention-center-assignment-3/)
+## [Orange County Convention Center](https://shaharina.github.io/convention-center-assignment-3/)
 <br/>
 <br/>
 Welcome to the Orange County . This website is a Convention Center service website. This repository contains server site code.
@@ -14,4 +14,4 @@ Welcome to the Orange County . This website is a Convention Center service websi
 - BOOTSTRAP 5
 - JAVASCRIPT
 
-You can see client side code in [Orange County Convention Center] (https://shaharina.github.io/convention-center-assignment-3/)
+You can see client side code in[Orange County Convention Center] (https://shaharina.github.io/convention-center-assignment-3/)
