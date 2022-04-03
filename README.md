@@ -15,4 +15,4 @@
 - BOOTSTRAP 5
 - JAVASCRIPT
 
-You can see client side code in [Orange County Convention Center](https://shaharina.github.io/convention-center-assignment-3/)
+You can see client side code in [Orange County Convention Center](https://github.com/Shaharina/convention-center-assignment-3)
